@@ -1,0 +1,17 @@
+https://techcrunch.com/2017/03/07/google-is-acquiring-data-science-community-kaggle/
+https://developers.googleblog.com/2017/03/xla-tensorflow-compiled.html
+https://github.com/jostmey/rwa?
+https://arxiv.org/pdf/1703.01253.pdf
+https://medium.com/athelas/paper-1-baidus-deep-voice-675a323705df#.y9chc89be
+https://arxiv.org/abs/1703.01619
+https://arxiv.org/pdf/1703.01619.pdf
+https://www.wikidata.org/wiki/Wikidata:Database_download/de
+https://www.mediawiki.org/wiki/Wikibase/DataModel/Primer
+https://dumps.wikimedia.org/
+https://deepstreamhub.com/
+http://t3n.de/news/google-rankingfaktoren-2017-16-802636/
+http://t3n.de/news/wichtigsten-seo-rankingfaktoren-2016-776245/
+https://github.com/AllThingsSmitty/css-protips
+http://nautil.us/blog/its-time-to-take-the-gaia-hypothesis-seriously
+https://www.wikidata.org/wiki/Wikidata:Database_download
+https://news.ycombinator.com/jobs

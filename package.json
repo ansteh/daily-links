@@ -1,0 +1,29 @@
+{
+  "name": "daily-links-service",
+  "version": "0.0.0",
+  "description": "daily links lab :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ansteh/daily-links.git"
+  },
+  "keywords": [],
+  "author": "Andre Stehle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ansteh/daily-links/issues"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "lodash": "^4.17.4",
+    "moment": "^2.17.1",
+    "url-graph": "0.0.10"
+  },
+  "devDependencies": {}
+}

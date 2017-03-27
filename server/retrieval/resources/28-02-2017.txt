@@ -1,0 +1,17 @@
+http://www.bbc.com/capital/story/20170227-this-is-why-the-boss-will-crush-all-your-good-ideas
+https://arxiv.org/pdf/1701.02434.pdf
+https://github.com/marcuswestin/store.js
+https://www.youtube.com/watch?v=-7xvqQeoA8c
+https://www.youtube.com/channel/UC7vVhkEfw4nOGp8TyDk7RcQ
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171774
+http://antirez.com/news/112
+http://www.fast.ai/2017/02/27/not-just-silicon-valley/
+http://web-tricks.org/content/how-create-loading-image-using-css-only
+http://web-tricks.org/
+https://crew.co/blog/why-you-shouldnt-work-set-hours/
+https://www.bloomberg.com/news/articles/2017-02-28/jpmorgan-marshals-an-army-of-developers-to-automate-high-finance
+https://uxplanet.org/design-a-perfect-search-box-b6baaf9599c#.2o372u5k6
+https://css-tricks.com/computer-science-distilled-chapter-2-complexity/
+http://stackoverflow.com/questions/33042591/how-to-import-csv-file-into-html-form-and-export-html-form-to-csv-file
+http://deathherald.tumblr.com/
+https://marmelab.com/blog/2017/02/28/sedy-the-serverless-github-bot-which-fix-typos-for-you.html

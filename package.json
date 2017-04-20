@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "bluebird": "^3.4.7",
+    "express": "^4.15.2",
     "json-pathfinder": "0.0.2",
     "lodash": "^4.17.4",
     "moment": "^2.17.1",

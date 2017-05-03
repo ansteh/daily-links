@@ -78,7 +78,16 @@ const getSites = () => {
     // .then(list => _.take(list, 50));
 };
 
+const getDomains = () => {
+  return treefyAll([dailyLinks, chromemarks])
+    // .then(tree => _.first(tree))
+    .then(tree => _.map(tree, (node) => {
+      return _.pick(node, ['name', 'count']);
+    }))
+};
+
 module.exports = {
+  getDomains,
   getSite,
   getSites
 };

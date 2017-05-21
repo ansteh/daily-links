@@ -1,0 +1,11 @@
+https://github.com/pmq20/node-compiler
+https://arxiv.org/abs/1704.08292
+https://github.com/zeit/pkg
+https://github.com/facebookresearch/ParlAI
+https://github.com/gajus/prepack-webpack-plugin
+https://github.com/milligram/milligram
+https://github.com/ngosang/trackerslist
+https://moz.com/blog/title-tag-hacks-whiteboard-friday
+https://www.totaljs.com/messenger
+https://github.com/totaljs/framework
+https://github.com/techfort/LokiJS/issues/526

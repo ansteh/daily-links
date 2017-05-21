@@ -1,0 +1,11 @@
+https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2017-02-27/Op-ed
+https://github.com/facebook/prepack
+https://github.com/onejgordon/flow-dashboard
+https://github.com/pmq20/node-compiler
+https://www.totaljs.com/
+http://t3n.de/news/facebook-werbung-standard-events-818666/
+https://kev.inburke.com/kevin/things-to-use-instead-of-jwt/
+https://nodejs.org/api/tls.html#tls_tls_ssl_concepts
+https://github.com/hanzo-io/shop.js
+https://hanzo.io/
+https://juristr.com/blog/2016/11/configure-proxy-api-angular-cli/

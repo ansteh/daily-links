@@ -1,0 +1,16 @@
+https://moz.com/blog/optimizing-angularjs-single-page-applications-googlebot-crawlers
+https://prerender.io/
+https://hackernoon.com/what-comes-after-saas-1f71ec40de45
+http://kubernetesbyexample.com/
+https://css-tricks.com/production-progressive-web-apps-javascript-frameworks/
+https://toddmotto.com/component-events-event-emitter-output-angular-2
+https://framer.com/
+https://framer.com/pricing/
+https://github.com/imazen/imageflow
+https://github.com/EliotAndres/kaggle-past-solutions
+https://blog.heapanalytics.com/basic-performance-analysis-saved-us-millions/?ct=t%28DevOpsLinks_62%29
+https://heapanalytics.com/pricing
+http://robert.ocallahan.org/2017/06/webassembly-mozilla-won.html
+https://www.indiehackers.com/businesses/gifshare
+https://github.com/kailashahirwar/cheatsheets-ai
+https://moz.com/rand/

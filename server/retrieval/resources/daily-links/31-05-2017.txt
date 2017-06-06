@@ -1,0 +1,14 @@
+https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html
+https://buildmyvocab.in/
+https://github.com/gitsummore/nile.js
+https://github.com/antonycourtney/tad
+https://github.com/QingWei-Li/docsify
+https://medium.com/@aurelien.gasser/a-dive-into-stack-overflow-jobs-search-62bc6e628f83
+https://kevinmontrose.com/2015/02/04/providence-matching-people-to-jobs/
+http://ndres.me/kaggle-past-solutions/
+https://github.com/EliotAndres/kaggle-past-solutions
+https://www.nytimes.com/2017/05/30/technology/amazon-stock-price.html?&moduleDetail=section-news-4&action=click&contentCollection=DealBook&region=Footer&module=MoreInSection&version=WhatsNext&contentID=WhatsNext&pgtype=article
+http://www.industryweek.com/energy/electric-cars-soon-will-cost-less-gasoline-autos-research-shows
+https://haywirez.com/hacking-soundcloud/
+https://www.orbix.de/
+http://picsvg.com/

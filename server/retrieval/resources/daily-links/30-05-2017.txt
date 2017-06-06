@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=EdFDJANJJLs
+https://motherboard.vice.com/en_us/article/wikipedias-switch-to-https-has-successfully-fought-government-censorship
+http://www.kerrickstaley.com/2017/05/29/extracting-chinese-subs-part-1
+https://github.com/chentsulin/awesome-graphql
+https://github.com/tastejs/hacker-news-pwas
+https://github.com/chaosbot/Chaos
+https://moz.com/blog/paid-search-audiences-wont-replace-keywords
+https://willrobotstakemyjob.com/
+https://www.indiehackers.com/businesses/themeisle
+https://github.com/mdipierro/nlib
+https://stackoverflow.com/questions/22432616/why-is-the-browser-not-setting-cookies-after-an-ajax-request-returns
+https://hackernoon.com/introducing-nile-js-81d83a31cfe3
+http://t3n.de/news/zahl-gruendungen-sinkt-rekordtief-826487/
+https://stackoverflow.com/questions/31127532/validate-custom-directive-using-ngmessages

@@ -1,0 +1,14 @@
+http://www.geeksforgeeks.org/performing-google-search-using-python-code/
+http://blog.openbloc.fr/webassembly-first-steps/
+https://webkit.org/blog/7691/webassembly/
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+https://lobste.rs/
+https://github.com/sakurity/securelogin
+https://github.com/kailashahirwar/cheatsheets-ai
+https://github.com/dcodeIO/webassembly
+http://webassembly.org/
+https://developer.mozilla.org/en-US/docs/WebAssembly
+https://www.battleforthenet.com/july12/
+https://moz.com/blog/mobile-seo-stack-tools
+http://t3n.de/news/conversion-growthmarketing-summit-826678/
+https://github.com/Angelmmiguel/svgi

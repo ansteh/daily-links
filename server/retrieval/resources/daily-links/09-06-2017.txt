@@ -1,0 +1,2 @@
+http://formidable.com/blog/2017/real-world-redux-saga-patterns/
+https://moz.com/blog/google-css-javascript-hidden-text

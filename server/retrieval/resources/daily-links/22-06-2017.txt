@@ -1,0 +1,4 @@
+https://blog.teller.io/2017/06/12/the-api-for-your-bank-account-is-here.html
+https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd
+https://visualgo.net/en
+https://stackoverflow.com/questions/11715646/scroll-automatically-to-the-bottom-of-the-page
